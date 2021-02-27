@@ -1,0 +1,3 @@
+name: MetricPoster
+main: xyz.acrylicstyle.metric.MetricPoster
+version: @version@
